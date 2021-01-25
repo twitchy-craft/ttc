@@ -3,7 +3,7 @@ TTC Client Backup
 
 Only there for transparency, see license!
 
-DONT ACTIVATE ANY OTHER AUTOTOTEM ALONG THIS ONE, it will glitch it out!
+DON'T ACTIVATE ANY OTHER AUTOTOTEM ALONG THIS ONE, it will glitch it out!
 
 ClickGUI opens with COMMA
 
